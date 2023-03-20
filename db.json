@@ -1,0 +1,132 @@
+{"animais":[
+    {
+      "id": "af055559-c0fb-11ed-81ef-a1f4015802f2",
+      "name": "",
+      "type": "Animal"
+    },
+    {
+      "id": "af05555a-c0fb-11ed-81ef-a1f4015802f2",
+      "name": "Vacas em lactação",
+      "type": "Animal"
+    },
+    {
+      "id": "af05555b-c0fb-11ed-81ef-a1f4015802f2",
+      "name": "Vacas secas",
+      "type": "Animal"
+    },
+    {
+      "id": "af05555c-c0fb-11ed-81ef-a1f4015802f2",
+      "name": "Vacas para corte",
+      "type": "Animal"
+    },
+    {
+      "id": "af05555d-c0fb-11ed-81ef-a1f4015802f2",
+      "name": "Boi",
+      "type": "Animal"
+    },
+    {
+      "id": "af05555e-c0fb-11ed-81ef-a1f4015802f2",
+      "name": "Touro",
+      "type": "Animal"
+    },
+    {
+      "id": "af05555f-c0fb-11ed-81ef-a1f4015802f2",
+      "name": "Bezerro",
+      "type": "Animal"
+    },
+    {
+      "id": "af055560-c0fb-11ed-81ef-a1f4015802f2",
+      "name": "Garrote/Novilha",
+      "type": "Animal"
+    },
+    {
+      "id": "4b5b4e41-c0fc-11ed-80f5-b52fd41acb9f",
+      "name": "",
+      "type": "Animal_Demais"
+    },
+    {
+      "id": "4b5b7552-c0fc-11ed-80f5-b52fd41acb9f",
+      "name": "Bubalino",
+      "type": "Animal_Demais"
+    },
+    {
+      "id": "4b5b7553-c0fc-11ed-80f5-b52fd41acb9f",
+      "name": "Capivara",
+      "type": "Animal_Demais"
+    },
+    {
+      "id": "4b5b7554-c0fc-11ed-80f5-b52fd41acb9f",
+      "name": "Caprino",
+      "type": "Animal_Demais"
+    },
+    {
+      "id": "4b5b7555-c0fc-11ed-80f5-b52fd41acb9f",
+      "name": "Coelho",
+      "type": "Animal_Demais"
+    },
+    {
+      "id": "4b5b7556-c0fc-11ed-80f5-b52fd41acb9f",
+      "name": "Equino",
+      "type": "Animal_Demais"
+    },
+    {
+      "id": "4b5b7557-c0fc-11ed-80f5-b52fd41acb9f",
+      "name": "Ovino",
+      "type": "Animal_Demais"
+    },
+    {
+      "id": "4b5b7558-c0fc-11ed-80f5-b52fd41acb9f",
+      "name": "Suíno",
+      "type": "Animal_Demais"
+    },
+    {
+      "id": "922c45e1-c0fc-11ed-bf93-2d03ae60d824",
+      "name": "",
+      "type": "Aves"
+    },
+    {
+      "id": "922c9402-c0fc-11ed-bf93-2d03ae60d824",
+      "name": "Codorna",
+      "type": "Aves"
+    },
+    {
+      "id": "922c9403-c0fc-11ed-bf93-2d03ae60d824",
+      "name": "Frango de corte CAIPIRA",
+      "type": "Aves"
+    },
+    {
+      "id": "922c9404-c0fc-11ed-bf93-2d03ae60d824",
+      "name": "Frango de corte INTEGRAÇÃO",
+      "type": "Aves"
+    },
+    {
+      "id": "922c9405-c0fc-11ed-bf93-2d03ae60d824",
+      "name": "Galinha poedeira",
+      "type": "Aves"
+    },
+    {
+      "id": "922c9406-c0fc-11ed-bf93-2d03ae60d824",
+      "name": "Ganso",
+      "type": "Aves"
+    },
+    {
+      "id": "922c9407-c0fc-11ed-bf93-2d03ae60d824",
+      "name": "Pato",
+      "type": "Aves"
+    },
+    {
+      "id": "922c9408-c0fc-11ed-bf93-2d03ae60d824",
+      "name": "Peru",
+      "type": "Aves"
+    },
+    {
+        "id": "922c777-c0fc-11ed-bf93-2d03ae60d824",
+        "name": "Vaca",
+        "type": "Animal_leiteira"
+      },
+      {
+        "id": "922c888-c0fc-11ed-bf93-2d03ae60d824",
+        "name": "Cabra",
+        "type": "Animal_leiteira"
+      }
+]}
